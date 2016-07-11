@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         //欢迎页代码
-        
+        //欢迎页完成
+
     }
 }
